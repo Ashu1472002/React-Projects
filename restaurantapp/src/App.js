@@ -1,11 +1,9 @@
 import React from 'react'
+import Restaurant from './component/Basics/Restaurant'
+const App = () => {
 
-const App = props => {
-    return (
-        <div>
-            <h1 >Hello WORLD</h1>
-        </div>
-    )
+    return <Restaurant />;
+    
 }
 
 export default App
