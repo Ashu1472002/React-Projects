@@ -1,10 +1,9 @@
 import React from 'react'
 
-
 const App = props => {
   return (
     <div>
-      Hello WORLD
+      <h1 >Hello WORLD</h1>
     </div>
   )
 }
